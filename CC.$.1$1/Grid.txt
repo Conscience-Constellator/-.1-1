@@ -1,0 +1,33 @@
+Order of modules taken out;
+1: the identity grid, to "SAm",
+2: all remaining, Bool->? to "Bool$", & ?->Bool to "$Bool",
+3: all remaining, Int->? to "Int$", & ?->Int to "$Int".
+4: all remaining, between word lengths, to SIz.
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Point	|Point	|Point	|Point	|Point	|Point	|Point	|Point	|Point	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Long	|Long	|Long	|Long	|Long	|Long	|Long	|Long	|Long	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Int	|Int	|Int	|Int	|Int	|Int	|Int	|Int	|Int	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Short	|Short	|Short	|Short	|Short	|Short	|Short	|Short	|Short	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Byt	|Byt	|Byt	|Byt	|Byt	|Byt	|Byt	|Byt	|Byt	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Dubl	|Dubl	|Dubl	|Dubl	|Dubl	|Dubl	|Dubl	|Dubl	|Dubl	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|FlOt	|FlOt	|FlOt	|FlOt	|FlOt	|FlOt	|FlOt	|FlOt	|FlOt	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|ChR	|ChR	|ChR	|ChR	|ChR	|ChR	|ChR	|ChR	|ChR	|
+-------------------------------------------------------------------------
+|Bool	|ChR	|FlOt	|Dubl	|Byt	|Short	|Int	|Long	|Point	|
+|Bool	|Bool	|Bool	|Bool	|Bool	|Bool	|Bool	|Bool	|Bool	|
+-------------------------------------------------------------------------
